@@ -1,6 +1,6 @@
 # PubSubNodeJS
 
-Following up on my last project(https://github.com/isunnyjaiswal/RandomQuoteGenerator) of serving Random Quotes using NodeJS with a MongoDB, this repository uses the randomQuotes and serves on the publisher and subscriber model.
+Following up on my <a href="https://github.com/isunnyjaiswal/RandomQuoteGenerator">last project</a> of serving Random Quotes using NodeJS with a MongoDB, this repository uses the randomQuotes and serves on the publisher and subscriber model.
 
 The eventemitter.js files emits the event 'givemerandomquote' and when you run the events.js file, it receives the emit and catches the random quote as an argument.
 
